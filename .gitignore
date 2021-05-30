@@ -133,3 +133,6 @@ dmypy.json
 
 # dataset
 dataset
+
+# preprocessed data
+src/preprocessed
