@@ -136,3 +136,6 @@ dataset
 
 # preprocessed data
 src/preprocessed
+
+# results folder
+results
