@@ -135,7 +135,7 @@ dmypy.json
 dataset
 
 # preprocessed data
-src/preprocessed
+preprocessed
 
 # results folder
 results
