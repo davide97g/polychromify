@@ -132,7 +132,8 @@ dmypy.json
 .vscode
 
 # dataset
-dataset
+dataset/*
+!dataset/test/**
 
 # preprocessed data
 preprocessed
