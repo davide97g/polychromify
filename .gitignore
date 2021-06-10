@@ -137,9 +137,6 @@ dataset
 # preprocessed data
 preprocessed
 
-# results folder
-results
-
 # models
 models
 
