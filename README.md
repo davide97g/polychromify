@@ -12,7 +12,6 @@ Repository for the Vision and Cognitive Services Project 2021.
 - notebooks
     - modeling.ipynb --> personal contribution
     - pretrained.ipynb --> ECCV16/SIGGRAPH APIs
-- papers
 - report
     - img/
     - guidelines.pdf
@@ -32,3 +31,9 @@ See README inside `dataset` folder.
 
 - `Jupyter Notebook` format
 - `python >= 3`
+
+## Papers
+
+- [Colorful Image Colorization](https://arxiv.org/abs/1603.08511)
+- [Real-Time User-Guided Image Colorization with Learned Deep Priors](https://arxiv.org/abs/1705.02999)
+- [Instance-aware Image Colorization](https://arxiv.org/abs/2005.10825)
