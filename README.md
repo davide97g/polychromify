@@ -37,3 +37,4 @@ See README inside `dataset` folder.
 - [Colorful Image Colorization](https://arxiv.org/abs/1603.08511)
 - [Real-Time User-Guided Image Colorization with Learned Deep Priors](https://arxiv.org/abs/1705.02999)
 - [Instance-aware Image Colorization](https://arxiv.org/abs/2005.10825)
+- [Deep Koalarization](https://arxiv.org/abs/1712.03400)

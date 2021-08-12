@@ -131,11 +131,6 @@ dmypy.json
 # vscode settings
 .vscode
 
-# dataset
-dataset/zip
-dataset/download/landscapes4k
-!dataset/download/README.md
-
 # preprocessed data
 preprocessed
 
@@ -144,3 +139,8 @@ models
 
 # binaries
 .bin
+
+# miscellaneous
+misc
+
+dataset
