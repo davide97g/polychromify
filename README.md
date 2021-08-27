@@ -26,7 +26,7 @@ Repository for the Vision and Cognitive Services Project 2021.
 
 ## Dataset
 
-The original dataset can be found [here]().
+The original dataset can be found [here](http://cs231n.stanford.edu/tiny-imagenet-200.zip).
 
 The pre-processed dataset I used for the trained can be found [here](https://drive.google.com/drive/folders/1VS1Bw4LTBXVozwhN2qnxFZF1kwppSNPh?usp=sharing).
 
