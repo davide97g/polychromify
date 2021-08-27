@@ -7,11 +7,12 @@ Repository for the Vision and Cognitive Services Project 2021.
 ```
 - dataset/
     - download
-        - landscapes4k
-- models
+        - tiny-imagenet-200 (to be downloaded / shared folder)
+- models (shared folder)
 - notebooks
-    - modeling.ipynb --> personal contribution
-    - pretrained.ipynb --> ECCV16/SIGGRAPH APIs
+    - comparison.ipynb
+    - data_preparation.ipynb
+    - models.ipynb
 - report
     - img/
     - guidelines.pdf
@@ -25,12 +26,18 @@ Repository for the Vision and Cognitive Services Project 2021.
 
 ## Dataset
 
-See README inside `dataset` folder.
+The original dataset can be found [here]().
+
+The pre-processed dataset I used for the trained can be found [here](https://drive.google.com/drive/folders/1VS1Bw4LTBXVozwhN2qnxFZF1kwppSNPh?usp=sharing).
 
 ## Notebooks
 
-- `Jupyter Notebook` format
+- `Google Colab` format
 - `python >= 3`
+
+## Models
+
+The pre-trained models, trained during my project are available at this [shared folder](https://drive.google.com/drive/folders/1QQ7MVs0ZK-mB121faxgYqKmReC_UYr64?usp=sharing) on google drive.
 
 ## Papers
 
